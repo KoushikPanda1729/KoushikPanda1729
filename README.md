@@ -18,7 +18,7 @@
 
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=koushikpanda1729&label=Profile%20views&color=0e75b6&style=flat" alt="koushikpanda1729" />
+  <img src="https://komarev.com/ghpvc/?username=KoushikPanda1729&label=Profile%20views&color=0e75b6&style=flat" alt="KoushikPanda1729" />
 </div>
 
 <div align="left">
@@ -191,7 +191,7 @@
 <h3 align="left" style="font-family: Arial, sans-serif; color: #4A90E2;">GitHub Trophies:</h3>
 <p align="left" style="background-color: #f5f5f5; padding: 10px; border-radius: 8px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy" style="text-decoration: none;">
-    <img src="https://github-profile-trophy.vercel.app/?username=koushikpanda1729&theme=gruvbox&margin-w=15&margin-h=15&column=7" alt="koushikpanda1729" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+    <img src="https://github-profile-trophy.vercel.app/?username=KoushikPanda1729&theme=gruvbox&margin-w=15&margin-h=15&column=7" alt="KoushikPanda1729" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
   </a>
 </p>
 
