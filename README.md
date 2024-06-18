@@ -196,6 +196,18 @@
 </p>
 
 
+<div align="center">
+  <h2>GitHub Stats</h2>
+  <div style="margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KoushikPanda1729&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="400"/>
+  </div>
+
+  <div style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=KoushikPanda1729&show_icons=true&locale=en" alt="GitHub Stats" width="400" height="200"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KoushikPanda1729&" alt="GitHub Streak" width="400" height="200" />
+  </div>
+</div>
+
 
 
 
